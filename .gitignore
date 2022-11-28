@@ -1,0 +1,11 @@
+debuglog.txt
+*.plt
+Pilots/
+Nova Files/
+*.lnk
+*.ttf
+*.ini
+*.exe
+*.dll
+Nova.rez
+*.7z
