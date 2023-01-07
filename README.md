@@ -12,7 +12,7 @@ Replaces the vanilla ship spritesheets, and the target, hail and info pictures w
  
 [For a ship-by-ship Graphical Breakdown please visit this wiki page.](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki/1-SuperNOVA-Graphical-Overhaul)
 
-##What this mod does not do:
+## What this mod does not do:
 
 1. Add any of the custom ships not found in the vanilla scenarios from Supernova
 1. Make any non-graphical changes or changes to the names of ships found in the vanilla scenario
