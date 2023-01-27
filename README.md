@@ -17,7 +17,7 @@ Replaces the vanilla ship spritesheets, and the target, hail and info pictures w
 1. Add any of the custom ships not found in the vanilla scenarios from Supernova
 1. Make any non-graphical changes or changes to the names of ships found in the vanilla scenario
 
-This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. I highly recommend both [NeoPlanets](https://drive.google.com/file/d/1D6pcNNNCmKzxAc8TqJIVSq1RXTeRkI18/view?usp=sharing) and the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod, as I've found the much larger ships of Supernova to look disproportionate otherwise.
+This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod.
 
 If you enjoy this mod, please go throw an endorsement over to SharkyNebula for the wonderful graphics in [Supernova Shipyard](https://github.com/NebulaTank/Supernova-Shipyard). As per the terms of that mod, the contents of this mod are available under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
