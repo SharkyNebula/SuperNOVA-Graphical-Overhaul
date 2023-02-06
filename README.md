@@ -28,7 +28,7 @@ If you enjoy this mod, please go throw an endorsement over to SharkyNebula for t
 
 Simply unzip the archive and place all the files directly into your Nova Plug-ins folder. Do not place a subfolder in the Nova Plug-ins folder. On Windows, the Nova Plug-ins﻿ folder is located in the EV Nova folder.﻿ On Windows, the EV Nova folder is most likely located in C:\Program Files (x86)\EV Nova﻿. On Mac, as of EV Nova 1.1, the Nova Plug-ins﻿ folder is located under /Users/(your user folder)/Library/Application Support/EV Nova.
 
-This file is compressed with the high compression rate .7z file format, if you're having trouble extracting it, acquire 7zip at [7-zip.org](https://www.7-zip.org/).
+You can download a zipped version of this archive by clicking the green 'Code' button and then 'Download Zip'.
 
 You do not have to have Supernova Shipyard installed to use this mod.
 
