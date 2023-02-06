@@ -20,7 +20,9 @@ As of version 1.7.1 SN-GO now remakes all the planets and reassigns several spac
 
 This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. 
 
-I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod so that the larger ships have more screen real estate to occupy. If you patch your game to be widescreen, be sure to use the (included with the ResPatcher) Nova Roid fix so that asteroids don't disappear
+I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod so that the larger ships have more screen real estate to occupy. If you patch your game to be widescreen, be sure to use the (included with the ResPatcher) Nova Roid fix so that asteroids don't disappear. SN-GO itself does not adjust the asteroids to ameliorate these issues.
+
+If you desire to play in widescreen+fullscreen on Windows 7/10/11, you may experience some screen tearing in fullscreen mode. A cnc-ddraw.dll file is available from the EV Nova discord's democratic-nova-resources forum channel which greatly smoothes these issues out when placed in the EV Nova folder. I also recommend this. [You can join the EV Nova discord with this link.](https://discord.gg/sDJBUcwFVH)
 
 If you enjoy this mod, please go throw an endorsement over to SharkyNebula for the wonderful graphics in [Supernova Shipyard](https://github.com/NebulaTank/Supernova-Shipyard). As per the terms of that mod, the contents of this mod are available under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -28,7 +30,7 @@ If you enjoy this mod, please go throw an endorsement over to SharkyNebula for t
 
 Simply unzip the archive and place all the files directly into your Nova Plug-ins folder. Do not place a subfolder in the Nova Plug-ins folder. On Windows, the Nova Plug-ins﻿ folder is located in the EV Nova folder.﻿ On Windows, the EV Nova folder is most likely located in C:\Program Files (x86)\EV Nova﻿. On Mac, as of EV Nova 1.1, the Nova Plug-ins﻿ folder is located under /Users/(your user folder)/Library/Application Support/EV Nova.
 
-This file is compressed with the high compression rate .7z file format, if you're having trouble extracting it, acquire 7zip at [7-zip.org](https://www.7-zip.org/).
+You can download a zipped version of this archive by clicking the green 'Code' button and then 'Download Zip'.
 
 You do not have to have Supernova Shipyard installed to use this mod.
 
@@ -37,3 +39,8 @@ Please adjust your load order so that weapon fixes and re-balancing mods load af
 "Fitted Shields" files are optional, in case you need to remove 171MB of loading.
 
 To halve the size of fighters and gunboats, move "SN-Small Fighters and Gunships" and "SN-Small Fitted Shields" from the Optional Plug-ins folder to your Nova Plug-ins folder.
+
+
+***
+
+**Thank you for your download and enjoying my work! You are welcome to submit feedback in the [#sn-go channel of the NebulaTank discord](https://discord.gg/VaDPKa4QCD).**
