@@ -4,7 +4,7 @@
  
  "This adds boosted ship sizes, as well as unique shields, engine glows, running lights, visually appropriate weapon exit points, and weapon glows for every ship." -SharkyNebula
  
-Originally uploaded to [Nexus Mods](https://www.nexusmods.com/escapevelocitynova/mods/6) on 28 April 2021 2:27PM by DrFiveMinusMinus who took the initiative to adapt SuperNova Shipyard's graphics to EV Nova. Since heavily modified by SharkyNebula to better suit EV Nova's original look.
+Originally uploaded to [Nexus Mods](https://www.nexusmods.com/escapevelocitynova/mods/6) on 28 April 2021 2:27PM by DrFiveMinusMinus who took the initiative to adapt SuperNova Shipyard's graphics to EV Nova. Since heavily modified by SharkyNebula to better suit EV Nova's original look. It's also available on [Github](https://github.com/NebulaTank/SuperNOVA-Graphical-Overhaul), where the latest version is always found.
 
 ## What this mod does:
 
@@ -12,12 +12,15 @@ Replaces the vanilla ship spritesheets, and the target, hail and info pictures w
  
 [For a ship-by-ship Graphical Breakdown please visit this wiki page.](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki/1-SuperNOVA-Graphical-Overhaul)
 
+As of version 1.7.1 SN-GO now remakes all the planets and reassigns several space object's types as well as adjusting planetary spacing so that the new sprites don't overlap. [For a list of all space object changes visit THIS wiki page, please.](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki/3-Planetary-Reassignment)
+
 ## What this mod does not do:
 
 1. Add any of the custom ships not found in the vanilla scenarios from Supernova
-1. Make any non-graphical changes or changes to the names of ships found in the vanilla scenario
 
-This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod.
+This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. 
+
+I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod so that the larger ships have more screen real estate to occupy. If you patch your game to be widescreen, be sure to use the (included with the ResPatcher) Nova Roid fix so that asteroids don't disappear
 
 If you enjoy this mod, please go throw an endorsement over to SharkyNebula for the wonderful graphics in [Supernova Shipyard](https://github.com/NebulaTank/Supernova-Shipyard). As per the terms of that mod, the contents of this mod are available under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -33,4 +36,4 @@ Please adjust your load order so that weapon fixes and re-balancing mods load af
 
 "Fitted Shields" files are optional, in case you need to remove 171MB of loading.
 
-To double the size of fighters and gunboats, remove "SN-Small Fighters and Gunships" and "SN-Small Fitted Shields".
+To halve the size of fighters and gunboats, move "SN-Small Fighters and Gunships" and "SN-Small Fitted Shields" from the Optional Plug-ins folder to your Nova Plug-ins folder.
