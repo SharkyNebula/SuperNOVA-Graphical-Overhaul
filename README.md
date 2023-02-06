@@ -20,7 +20,9 @@ As of version 1.7.1 SN-GO now remakes all the planets and reassigns several spac
 
 This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. 
 
-I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod so that the larger ships have more screen real estate to occupy. If you patch your game to be widescreen, be sure to use the (included with the ResPatcher) Nova Roid fix so that asteroids don't disappear
+I recommend the [WinNova ResPatcher](https://drive.google.com/file/d/1wFTaLFMIwIb3a0LK_91gg3H2PoBYgiDe/view?usp=sharing) to be used with this mod so that the larger ships have more screen real estate to occupy. If you patch your game to be widescreen, be sure to use the (included with the ResPatcher) Nova Roid fix so that asteroids don't disappear. SN-GO itself does not adjust the asteroids to ameliorate these issues.
+
+If you desire to play in widescreen+fullscreen on Windows 7/10/11, you may experience some screen tearing in fullscreen mode. A cnc-ddraw.dll file is available from the EV Nova discord's democratic-nova-resources forum channel which greatly smoothes these issues out when placed in the EV Nova folder. I also recommend this. [You can join the EV Nova discord with this link.](https://discord.gg/sDJBUcwFVH)
 
 If you enjoy this mod, please go throw an endorsement over to SharkyNebula for the wonderful graphics in [Supernova Shipyard](https://github.com/NebulaTank/Supernova-Shipyard). As per the terms of that mod, the contents of this mod are available under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
