@@ -39,3 +39,8 @@ Please adjust your load order so that weapon fixes and re-balancing mods load af
 "Fitted Shields" files are optional, in case you need to remove 171MB of loading.
 
 To halve the size of fighters and gunboats, move "SN-Small Fighters and Gunships" and "SN-Small Fitted Shields" from the Optional Plug-ins folder to your Nova Plug-ins folder.
+
+
+***
+
+**Thank you for your download and enjoying my work! You are welcome to submit feedback in the [#sn-go channel of the NebulaTank discord](https://discord.gg/VaDPKa4QCD).**
